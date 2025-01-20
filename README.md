@@ -92,4 +92,4 @@ Import the dataset into MySQL Workbench using data_import.sql.
 Run queries in data_exploration.sql and fraud_trends_analysis.sql to extract insights.
 Future Work:
 Extend analysis to include more granular time trends.
-Combine SQL queries with visualization tools like Tableau or Python.
+Combine SQL queries with visualization tools like PowerBI.
