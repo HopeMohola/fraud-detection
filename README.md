@@ -11,9 +11,7 @@ Data Analysis:
 Identifying fraudulent trends by day, month, and customer.
 Extracting high-risk customers and merchants using SQL queries.
 Advanced analysis using Common Table Expressions (CTEs).
-Visualization:
 
-Fraud trends visualized using tools like MySQL Workbench's charting or exported results for plotting.
 Files:
 data/:
 
